@@ -54,13 +54,13 @@ Please note that the data is very evenly distributed, which suggests it may be s
 ## Key Visualisations
 
 ### Average Spending Score by Profession
-(images/profession_chart.png)
+[images/profession_chart.png]
 
 ### Average Spending Score by Income Ban
-(images/income_band_chart.png)
+[images/income_band_chart.png]
 
 ### Correlation Between Customer Variables
-(images/heatmap.png)
+[images/heatmap.png]
 
 
 
