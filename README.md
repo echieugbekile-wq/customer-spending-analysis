@@ -56,7 +56,7 @@ Please note that the data is very evenly distributed, which suggests it may be s
 ### Average Spending Score by Profession
 
 
-### Average Spending Score by Income Ban
+### Average Spending Score by Income Band
 
 
 ### Correlation Between Customer Variables
