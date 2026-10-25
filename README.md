@@ -54,15 +54,15 @@ Please note that the data is very evenly distributed, which suggests it may be s
 ## Key Visualisations
 
 ### Average Spending Score by Profession
-![Average spending score by profession](images/profession_chart.png)
+(images/profession_chart.png)
 
-### Average Spending Score by Income Band
-![Average spending score by income band](images/income_band_chart.png)
+### Average Spending Score by Income Ban
+(images/income_band_chart.png)
 
 ### Correlation Between Customer Variables
-![Correlation heatmap](images/heatmap.png)
+(images/heatmap.png)
 
-*Add any further charts here, such as spending by age group or the silhouette score plot.*
+
 
 ## Recommendations
 
