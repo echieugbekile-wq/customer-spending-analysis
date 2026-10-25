@@ -23,7 +23,7 @@ A retailer wants to increase customer spending and needs to know where to focus 
 
 ## Data
 
-- **Source:** [add the source and link here]
+- **Source:** https://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=download
 - **Size:** 2,000 customers, 8 columns (1,972 rows after cleaning)
 - **Columns:** Customer ID, Gender, Age, Annual Income ($), Spending Score (1-100), Profession, Work Experience, Family Size
 
@@ -90,12 +90,10 @@ Please note that the data is very evenly distributed, which suggests it may be s
 
 Python, pandas, NumPy, matplotlib, seaborn, SciPy, scikit-learn, Google Colab
 
-## Presentation
-
-A short slide deck summarising the project is available in [`slides/customer_analysis.pdf`](slides/customer_analysis.pdf).
 
 ## About the Author
 
 I am Echie Ugbekile, a BSc Mathematics student at Coventry University, based in London, with a focus on data analysis. I hold the IBM Data Analyst Professional Certificate and work with Excel, Python and SQL. This project reflects my approach to analysis: begin with a clear business question, document every decision, and report findings honestly, including when the data does not support a convenient conclusion.
 
-**Contact:** [add your LinkedIn link] | [add your email]
+**Contact:**
+Email: Echie.ugbekile@gmail.com
